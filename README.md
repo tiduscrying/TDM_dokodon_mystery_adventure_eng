@@ -1,4 +1,6 @@
-# TDM_dokodon_mystery_adventure_eng
+# *Taiko Drum Master: Dokodon! Mystery Adventure!* English Translation Project
+![Imgur](http://i.imgur.com/fXMGFqM.png)
+
 English translated images/scripts for the 3DS game "Taiko Drum Master: Dokodon! Mystery Adventure!"
 
 **Download the release and copy it to the root of your SD card for use with Luma 7.0's LayeredFS feature**
